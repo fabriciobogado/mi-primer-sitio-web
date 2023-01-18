@@ -19,7 +19,8 @@ body{
 .agrupar{
     width: 960px;
     border: 1px solid black;
-    margin: 10px auto; 
+    margin: 10px auto;
+    height: auto;
 }
 .cabecera{
     background:#fffbb9;
@@ -56,6 +57,7 @@ body{
     border: 1px solid black;
     float: left;
     background: yellow;
+    margin:20px;
 }
 
 .pie{
