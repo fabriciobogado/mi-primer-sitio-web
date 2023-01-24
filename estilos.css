@@ -65,10 +65,16 @@ body{
 }
 
 article{
-    background: #fffbb9;
+    background: #fffbcc;  
     border: 1px solid #999;
     padding: 20px;
     margin-bottom: 15px;
+}
+time{
+    color:#999
+}
+article footer{
+    text-align: right;
 }
 .columna{
     width: 300px;
@@ -78,4 +84,7 @@ article{
 
 .pie{
     clear: both;
+}
+img{
+    width: 80px;
 }
